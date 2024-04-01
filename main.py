@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1wsenoRI3Dwy8AT8HWOnLUkOJGAcw448b
 """
 
-!pip install dash
+#!pip install dash
 
 # Cuaderno Proyecto Cristian Andres Hernandez Sarmiento - Ucompensar
 # Ciencia de datos - Programacion Ciencia de Datos II
